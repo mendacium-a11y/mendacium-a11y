@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Saksham Saha
 
-[![Header](https://your-image-link.png)](https://your-portfolio-website.com)
+
 
 I'm a passionate 3rd-year B.Tech student and coding enthusiast! 🚀
 
@@ -17,14 +17,14 @@ I'm a passionate 3rd-year B.Tech student and coding enthusiast! 🚀
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://your-portfolio-website.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-purple)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://www.linkedin.com/in/saksham-saha-5b5baa248/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://mendacium-a11y.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-purple)](https://github.com/mendacium-a11y)
 
-## 🌟 Check Out My Latest Projects
+<!--## 🌟 Check Out My Latest Projects
 
 - 🚗 [Car Rental App](https://github.com/your-username/car-rental-app) - A sleek car rental platform built with React and Express.
-- 📸 [Photo Gallery](https://github.com/your-username/photo-gallery) - An image-sharing app using Node.js and Prisma.
+- 📸 [Photo Gallery](https://github.com/your-username/photo-gallery) - An image-sharing app using Node.js and Prisma.-->
 
 ## 🤝 Let's Collaborate!
 
@@ -32,5 +32,5 @@ I'm always open to collaboration and learning new things. Feel free to reach out
 
 ## 🚀 Stay Innovative, Stay Creative! 🚀
 
-[![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://your-portfolio-website.com)
+[![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://mendacium-a11y.github.io)
 
