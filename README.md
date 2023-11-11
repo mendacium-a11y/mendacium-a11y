@@ -21,7 +21,7 @@ I'm a passionate 3rd-year B.Tech student and coding enthusiast! 🚀
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_Website-ccff33)](https://mendacium-a11y.github.io)
 
-[![GitHub](https://img.shields.io/badge/GitHub_Mendacium--a11y-000099)](https://github.com/mendacium-a11y)
+[![GitHub](https://img.shields.io/badge/GitHub_Mendacium--a11y-B3DDE1)](https://github.com/mendacium-a11y)
 
 <!--## 🌟 Check Out My Latest Projects
 
