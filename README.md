@@ -18,13 +18,10 @@ I'm a passionate 3rd-year B.Tech student and coding enthusiast! 🚀
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?logo=linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/saksham-saha-5b5baa248/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-ccff33)](https://mendacium-a11y.github.io)
-
-[![GitHub](https://img.shields.io/badge/GitHub_Mendacium--a11y-B3DDE1)](https://github.com/mendacium-a11y)
-
-![linkedin-Saksham Saha-](https://github.com/mendacium-a11y/mendacium-a11y/assets/110321699/b8e89e5f-e454-4a18-92d5-7d5a91f04ea6)<svg xmlns="http://www.w3.org/2000/svg" width="245.00003051757812" height="35" viewBox="0 0 245.00003051757812 35"><rect width="92.40000915527344" height="35" fill="#389ad5"/><rect x="92.40000915527344" width="152.6000213623047" height="35" fill="#31c4f3"/><text x="46.20000457763672" y="17.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" alignment-baseline="middle" letter-spacing="2">LINKEDIN</text><text x="168.70001983642578" y="17.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" alignment-baseline="middle" letter-spacing="2">SAKSHAM SAHA</text></svg>
+[![LINKEDIN](https://github.com/mendacium-a11y/mendacium-a11y/assets/110321699/65f558ef-bd30-4885-981e-9f43abaf046c)](https://www.linkedin.com/in/saksham-saha-5b5baa248/)
+[![GITHUB](https://github.com/mendacium-a11y/mendacium-a11y/assets/110321699/6792a487-471c-48c0-89a9-6ced25fc1b00)](https://github.com/mendacium-a11y)
+[![portfolio](https://github.com/mendacium-a11y/mendacium-a11y/assets/110321699/b614f551-88a2-4c3b-ad49-1b23272f6493)](https://mendacium-a11y.github.io)
 
 
 <!--## 🌟 Check Out My Latest Projects
@@ -36,9 +33,6 @@ I'm a passionate 3rd-year B.Tech student and coding enthusiast! 🚀
 
 I'm always open to collaboration and learning new things. Feel free to reach out to me if you have exciting projects in mind or just want to chat about tech. Let's build something amazing together! 🌈
 
-## 🚀 Stay Innovative, Stay Creative! 🚀![Uploading linkedin-Saksham Saha-.svg…]()
-
+## 🚀 Stay Innovative, Stay Creative! 🚀
 
 [![Made with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://mendacium-a11y.github.io)
-
-
