@@ -6,9 +6,8 @@ I'm a passionate 3rd-year B.Tech student and coding enthusiast! 🚀
 
 ## 🔧 Technologies and Tools
 
-- 💻 Proficient in JavaScript, Python, Node.js, React.js, Express.js, Prisma, PostgreSQL, Flask, and SQLite.
-- 🌐 Building dynamic web applications with React.js and Node.js.
-- 🛢️ Managing data with PostgreSQL, Prisma, and SQLite.
+- 💻 Proficient in ROS,PCB Design, KiCad, Solidworks, 3D Design, Python, PostgreSQL, .
+
 - 🌱 Always learning and exploring new technologies.
 
 ## 🚀 What I'm Currently Working On
