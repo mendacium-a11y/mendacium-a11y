@@ -2,7 +2,7 @@
 
 
 
-I'm a passionate 3rd-year B.Tech student and coding enthusiast! 🚀
+I'm a passionate 4th-year B.Tech student and deep-tech enthusiast! 🚀
 
 ## 🔧 Technologies and Tools
 
